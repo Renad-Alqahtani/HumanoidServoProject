@@ -22,7 +22,7 @@ The goal of this project is to test and control multiple servos in a humanoid ro
 ## Files
 - `HumanoidServo.ino` → Arduino code for 6 servos sweep and hold.  
 - `images/` → Pictures of the TinkerCad setup.
-- videos/demo.mp4 → short demo of project
+- `videos/` → short demo of project
 
 ## Hardware
 - Arduino Uno  
