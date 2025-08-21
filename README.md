@@ -1,5 +1,4 @@
-# HumanoidServoProject
-Arduino project controlling 6 servo motors with humanoid walking algorithm
+
 # Humanoid Servo Project
 
 This project demonstrates controlling **6 servo motors** using an Arduino to simulate basic humanoid robot movements.
