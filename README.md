@@ -20,8 +20,8 @@ The goal of this project is to test and control multiple servos in a humanoid ro
    - Repeat with the opposite leg to simulate walking.
 
 ## Files
-- `HumanoidServo.ino` → Arduino code for 6 servos sweep and hold.  
-- `image` → Pictures of the TinkerCad setup.
+- `HumanoidServo.ino` → Arduino code for 6 servos sweep and hold [here](HumanoidServo.ino.ino).  
+- `image` → Pictures of the TinkerCad setup [here](image.png).
 - `video` → short demo of project [here](video.mp4)
 
   
